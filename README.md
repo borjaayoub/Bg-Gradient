@@ -1,1 +1,1 @@
-# Bg-Gradiant
+# Bg-Gradient
